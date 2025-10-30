@@ -2,5 +2,8 @@
 	    "name": "reactfolio",
 	    "compatibility_date": "2025-10-30",
 	    "main": "src/index.js",
-		"base_dir": "/"
+		"base_dir": "/",
+		"assets": {
+			"directory": "./public/"
+		}
 }
